@@ -1,4 +1,6 @@
 import { Component } from '@angular/core';
+import { SellerService } from './services/seller.service';
+import { NgbModal } from '@ng-bootstrap/ng-bootstrap';
 
 @Component({
   selector: 'app-root',
@@ -6,5 +8,9 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'hello-angular';
+  constructor(private modalService: NgbModal) {
+  }
+  public open(modal: any): void {
+    this.modalService.open(modal);
+  }
 }

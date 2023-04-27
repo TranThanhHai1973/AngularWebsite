@@ -1,0 +1,12 @@
+.checkout h1{
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.setRow {
+    display: grid;
+}
+.checkout .shipping-address {
+text-align: center;
+margin: 15px 0;
+}

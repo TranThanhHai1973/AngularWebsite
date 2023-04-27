@@ -1,0 +1,38 @@
+<div class="seller-auth">
+    <div *ngIf="!showLogin" class="sign-up">
+        <h1>Seller Sig-Up</h1>
+        <form class="common-form" #sellerSignUp="ngForm" (ngSubmit)="signUp(sellerSignUp.value)">
+            <input class="form-input" #name="ngModel" name type="text" ngModel name="name" placeholder="Enter Name">
+            <p class="invalid-input"><span *ngIf="name.invalid"> Please enter customer name</span></p>
+            <input class="form-input" #email="ngModel" email type="email" ngModel name="email"
+                placeholder="Enter Email">
+            <p class="invalid-input"><span *ngIf="email.invalid"> Please enter customer eamil</span></p>
+            <input class="form-input" #password="ngModel" password minlength="2" maxlength="20" type="password" ngModel
+                name="password" placeholder="Enter Password">
+            <p class="invalid-input"><span *ngIf="password.invalid && password.touched"> Please enter your
+                    password</span>
+            </p>
+            <button class="form-button">SigUp</button>
+            <a (click)="openLogin()">Already Have Account? Click to Login</a>
+        </form>
+    </div>
+
+    <!-- Login -->
+    <div *ngIf="showLogin" class="sign-up">
+        <h1>Seller login</h1>
+        <p class="error-p">{{authError}}</p>
+        <form class="common-form" #sellerLogin="ngForm" (ngSubmit)="login(sellerLogin.value)">
+            <input required class="form-input" #email="ngModel" email type="email" ngModel name="email"
+                placeholder="Enter Email">
+            <p class="invalid-input"><span *ngIf="email.invalid"> Please enter customer email</span></p>
+            <input class="form-input" #password="ngModel" password minlength="2" maxlength="20" type="password" ngModel
+                name="password" placeholder="Enter Password">
+            <p class="invalid-input"><span *ngIf="password.invalid && password.touched"> Please enter your
+                    password</span>
+            </p>
+            <button class="form-button">login</button>
+            <a (click)="opensignUp()">Already Have Account? Click to Login</a>
+        </form>
+    </div>
+
+</div>

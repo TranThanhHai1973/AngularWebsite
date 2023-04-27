@@ -1,0 +1,817 @@
+{
+  "seller": [
+    {
+      "name": "hieu",
+      "email": "hieu123@gmail.com",
+      "password": "123",
+      "id": 1
+    },
+    {
+      "name": "hai",
+      "email": "hai123@gmail.com",
+      "password": "123",
+      "id": 2
+    },
+    {
+      "name": "",
+      "password": "123qwe",
+      "email": "admin",
+      "id": 3
+    },
+    {
+      "name": "Trần Thanh Hải",
+      "password": "123",
+      "email": "hai123@gmail.com",
+      "id": 4
+    },
+    {
+      "name": "",
+      "password": "123",
+      "email": "hai123@gmail.com",
+      "id": 5
+    }
+  ],
+  "products": [
+    {
+      "name": "Samsung Galaxy S23 5G",
+      "price": "16690000",
+      "color": "black",
+      "category": "samsung",
+      "description": "Điện thoại Samsung Galaxy S23 5G 128GB",
+      "image": "https://www.xtmobile.vn/vnt_upload/product/10_2022/thumbs/(600x600)_crop_a73-5g.jpg",
+      "id": 1
+    },
+    {
+      "name": " Samsung Galaxy Z Flip4",
+      "price": "17990000 ",
+      "color": "violet",
+      "category": "samsung",
+      "description": "Điện thoại Samsung Galaxy Z Flip4 128GB",
+      "image": "https://cdn.tgdd.vn/Products/Images/42/258047/samsung-galaxy-z-flip4-5g-128gb-thumb-tim-600x600.jpg",
+      "id": 2
+    },
+    {
+      "name": "Samsung Galaxy Z Fold 4",
+      "price": "30490000",
+      "color": "black",
+      "category": "samsung",
+      "description": "Samsung Galaxy Z Fold 4 (256GB) giá rẻ, giao ngay",
+      "image": "https://cdn11.dienmaycholon.vn/filewebdmclnew/DMCL21/Picture//Apro/Apro_product_31152/samsung-galaxy-_main_549_1020.png.webp",
+      "id": 3
+    },
+    {
+      "name": "iPad Pro M1",
+      "price": "23990000 ",
+      "color": "yellow",
+      "category": "ipad",
+      "description": "iPad Pro M1 (12.9 inch) 2021 | Giá rẻ, thu cũ đổi mới",
+      "image": "https://cdn2.cellphones.com.vn/x358,webp,q100/media/catalog/product/i/p/ipad-pro-12-9-2021-1.jpg",
+      "id": 4
+    },
+    {
+      "name": "Apple iPad Pro 11 2020",
+      "price": "15990000 ",
+      "color": "while",
+      "category": "ipad",
+      "description": "Máy tính bảng Apple iPad Pro 11 2020 - Wifi - 128GB",
+      "image": "https://onewaymobile.vn/images/products/2022/06/18/original/ipad-pro-m1-2020-129-oneway_1655525885.png",
+      "id": 5
+    },
+    {
+      "name": "iphone 6",
+      "price": "3300200 ",
+      "color": "yellow",
+      "category": "iphone",
+      "description": "Iphone 6 ram8,128gb",
+      "image": "https://cdn.tgdd.vn/Products/Images/42/92962/iphone-6-32gb-gold-hh-600x600-600x600-600x600.jpg",
+      "id": 6
+    },
+    {
+      "name": "iphone 7",
+      "price": "4300000 ",
+      "color": "yellow",
+      "category": "iphone",
+      "description": "iPhone 7 32GB | Giá rẻ, chính hãng, nhiều khuyến mãi",
+      "image": "https://cdn.tgdd.vn/Products/Images/42/74110/iphone-7-gold-600x600-1-600x600.jpg",
+      "id": 7
+    },
+    {
+      "name": "iphone 7 plus",
+      "price": "4790000 ",
+      "color": "yellow",
+      "category": "iphone",
+      "description": "Apple iPhone 7 Plus 128GB - Cũ đẹp",
+      "image": "https://cdn2.cellphones.com.vn/200x/media/catalog/product/_/0/_0000_iphone-7-plus-2_1_4_1_1_2.jpg",
+      "id": 8
+    },
+    {
+      "name": "iphone X",
+      "price": "5590000 ",
+      "color": "while",
+      "category": "iphone",
+      "description": "iPhone X 256GB Cũ Chính Hãng (Likenew)",
+      "image": "https://product.hstatic.net/200000489025/product/thumb-xs1_7d2de9fcaac449f49837e6594e95085d.png",
+      "id": 9
+    },
+    {
+      "name": "iphone XS MAX",
+      "price": "6590000 ",
+      "color": "yellow",
+      "category": "iphone",
+      "description": "iPhone Xs Max 64GB | 256GB | 512GB",
+      "image": "https://chungblackberry.com/wp-content/uploads/2022/03/iphone-xs-max-gold-600x600-1.jpg",
+      "id": 10
+    },
+    {
+      "name": "iphone XS MAX(Cũ)",
+      "price": "4490000 ",
+      "color": "while",
+      "category": "iphone",
+      "description": " iPhone XS Max 64GB Cũ đẹp ",
+      "image": "https://cdn2.cellphones.com.vn/x358,webp,q100/media/catalog/product/i/p/iphone_xs_max_64gb_1_1.jpg",
+      "id": 11
+    },
+    {
+      "name": "iphone 11",
+      "price": "16490000 ",
+      "color": "green",
+      "category": "iphone",
+      "description": "iPhone 11 256GB | Chính hãng VN/A",
+      "image": "https://24hstore.vn/images/products/2022/06/22/large/iphone-11-256gb-xanh-la.jpg",
+      "id": 12
+    },
+    {
+      "name": "iPhone 11 Pro Max",
+      "price": "16990000 ",
+      "color": "black",
+      "category": "iphone",
+      "description": "Điện thoại iPhone 11 Pro Max 64GB",
+      "image": "https://cdn.tgdd.vn/Products/Images/42/200533/iphone-11-pro-max-green-600x600.jpg",
+      "id": 13
+    },
+    {
+      "name": "iPhone 11 Pro",
+      "price": "21890000 ",
+      "color": "black",
+      "category": "iphone",
+      "description": "Điện thoại iPhone 11 Pro 64GB",
+      "image": "https://cdn.tgdd.vn/Products/Images/42/188705/iphone-11-pro-vang-600x600-200x200.jpg",
+      "id": 14
+    },
+    {
+      "name": "iphone 13",
+      "price": "16890000",
+      "color": "bink",
+      "category": "iphone",
+      "description": "new iphone",
+      "image": "https://cdn2.cellphones.com.vn/358x358,webp,q100/media/catalog/product/1/4/14_1_9_2_9.jpg",
+      "id": 15
+    },
+    {
+      "name": "iphone 13 ProMax",
+      "price": "15880000",
+      "color": "gren",
+      "category": "iphone",
+      "description": "new iphone",
+      "image": "https://synnexfpt.com/wp-content/uploads/2022/06/Apple-iPhone-13-Pro-12.jpg",
+      "id": 16
+    },
+    {
+      "name": "iphone 13 256 GB VNA",
+      "price": "28000890",
+      "color": "while",
+      "category": "iphone",
+      "description": "new iphone",
+      "image": "https://hc.com.vn/i/ecommerce/media/GS.008538_FEATURE_93671.jpg",
+      "id": 17
+    }
+  ],
+  "users": [
+    {
+      "name": "Trần Thanh Hải",
+      "email": "hai123@gmail.com",
+      "password": "123",
+      "id": 1
+    },
+    {
+      "name": "Trần Thanh bao",
+      "email": "bao123@gmail.com",
+      "password": "123",
+      "id": 2
+    },
+    {
+      "name": "doan thi thơ",
+      "email": "tho123@gmail.com",
+      "password": "123",
+      "id": 3
+    },
+    {
+      "name": "doan thi thơ",
+      "email": "tho123@gmail.com",
+      "password": "123",
+      "id": 4
+    },
+    {
+      "name": "doan thi thơ",
+      "email": "tho123@gmail.com",
+      "password": "123",
+      "id": 5
+    },
+    {
+      "name": "Huyen",
+      "email": "huyen123@gmail.com",
+      "password": "123",
+      "id": 6
+    },
+    {
+      "name": "daudau",
+      "email": "dau123@gmail.com",
+      "password": "123",
+      "id": 7
+    },
+    {
+      "name": "Trần Văn Minh",
+      "email": "minh123@gmail.com",
+      "password": "123",
+      "id": 8
+    },
+    {
+      "name": "hhh",
+      "email": "hai123@gmail.com",
+      "password": "123",
+      "id": 9
+    },
+    {
+      "name": "hung",
+      "email": "hai123@gmail.com",
+      "password": "123",
+      "id": 10
+    },
+    {
+      "name": "",
+      "email": "hai123@gmail.com",
+      "password": "123",
+      "id": 11
+    },
+    {
+      "name": "",
+      "email": "hai123@gmail.com",
+      "password": "123",
+      "id": 12
+    },
+    {
+      "name": "hoAiHai",
+      "email": "hoaiHai123@gmail.com",
+      "password": "123",
+      "id": 13
+    },
+    {
+      "name": "hoàng",
+      "email": "hoang01@gmail.com",
+      "password": "123",
+      "id": 14
+    }
+  ],
+  "cart": [
+    {
+      "name": "Samsung Galaxy S23 5G",
+      "price": "16.690.000",
+      "color": "black",
+      "category": "samsung",
+      "description": "Điện thoại Samsung Galaxy S23 5G 128GB",
+      "image": "https://www.xtmobile.vn/vnt_upload/product/10_2022/thumbs/(600x600)_crop_a73-5g.jpg",
+      "quantity": 1,
+      "userId": 14,
+      "productId": 1,
+      "id": 1
+    },
+    {
+      "name": "Samsung Galaxy S23 5G",
+      "price": "16.690.000",
+      "color": "black",
+      "category": "samsung",
+      "description": "Điện thoại Samsung Galaxy S23 5G 128GB",
+      "image": "https://www.xtmobile.vn/vnt_upload/product/10_2022/thumbs/(600x600)_crop_a73-5g.jpg",
+      "quantity": 1,
+      "userId": 14,
+      "productId": 1,
+      "id": 2
+    },
+    {
+      "name": " Samsung Galaxy Z Flip4",
+      "price": "17.990.000",
+      "color": "violet",
+      "category": "samsung",
+      "description": "Điện thoại Samsung Galaxy Z Flip4 128GB",
+      "image": "https://cdn.tgdd.vn/Products/Images/42/258047/samsung-galaxy-z-flip4-5g-128gb-thumb-tim-600x600.jpg",
+      "quantity": 1,
+      "userId": 14,
+      "productId": 2,
+      "id": 3
+    },
+    {
+      "name": "Samsung Galaxy S23 5G",
+      "price": "16.690.000 ",
+      "color": "black",
+      "category": "samsung",
+      "description": "Điện thoại Samsung Galaxy S23 5G 128GB",
+      "image": "https://www.xtmobile.vn/vnt_upload/product/10_2022/thumbs/(600x600)_crop_a73-5g.jpg",
+      "quantity": 1,
+      "productId": 1,
+      "userId": 1,
+      "id": 4
+    },
+    {
+      "name": " Samsung Galaxy Z Flip4",
+      "price": "17.990.000 ",
+      "color": "violet",
+      "category": "samsung",
+      "description": "Điện thoại Samsung Galaxy Z Flip4 128GB",
+      "image": "https://cdn.tgdd.vn/Products/Images/42/258047/samsung-galaxy-z-flip4-5g-128gb-thumb-tim-600x600.jpg",
+      "quantity": 1,
+      "productId": 2,
+      "userId": 1,
+      "id": 5
+    },
+    {
+      "name": "Samsung Galaxy S23 5G",
+      "price": "16.690.000 ",
+      "color": "black",
+      "category": "samsung",
+      "description": "Điện thoại Samsung Galaxy S23 5G 128GB",
+      "image": "https://www.xtmobile.vn/vnt_upload/product/10_2022/thumbs/(600x600)_crop_a73-5g.jpg",
+      "quantity": 1,
+      "userId": 1,
+      "productId": 1,
+      "id": 6
+    },
+    {
+      "name": "Samsung Galaxy S23 5G",
+      "price": "16.690.000 ",
+      "color": "black",
+      "category": "samsung",
+      "description": "Điện thoại Samsung Galaxy S23 5G 128GB",
+      "image": "https://www.xtmobile.vn/vnt_upload/product/10_2022/thumbs/(600x600)_crop_a73-5g.jpg",
+      "quantity": 1,
+      "productId": 1,
+      "userId": 1,
+      "id": 7
+    },
+    {
+      "name": "Samsung Galaxy S23 5G",
+      "price": "16.690.000 ",
+      "color": "black",
+      "category": "samsung",
+      "description": "Điện thoại Samsung Galaxy S23 5G 128GB",
+      "image": "https://www.xtmobile.vn/vnt_upload/product/10_2022/thumbs/(600x600)_crop_a73-5g.jpg",
+      "quantity": 1,
+      "userId": 1,
+      "productId": 1,
+      "id": 8
+    },
+    {
+      "name": " Samsung Galaxy Z Flip4",
+      "price": "17.990.000 ",
+      "color": "violet",
+      "category": "samsung",
+      "description": "Điện thoại Samsung Galaxy Z Flip4 128GB",
+      "image": "https://cdn.tgdd.vn/Products/Images/42/258047/samsung-galaxy-z-flip4-5g-128gb-thumb-tim-600x600.jpg",
+      "quantity": 1,
+      "userId": 1,
+      "productId": 2,
+      "id": 9
+    },
+    {
+      "name": "Samsung Galaxy S23 5G",
+      "price": "16.690.000",
+      "color": "black",
+      "category": "samsung",
+      "description": "Điện thoại Samsung Galaxy S23 5G 128GB",
+      "image": "https://www.xtmobile.vn/vnt_upload/product/10_2022/thumbs/(600x600)_crop_a73-5g.jpg",
+      "quantity": 1,
+      "userId": 1,
+      "productId": 1,
+      "id": 10
+    },
+    {
+      "name": "Samsung Galaxy Z Fold 4",
+      "price": "30.490.000 đ",
+      "color": "black",
+      "category": "samsung",
+      "description": "Samsung Galaxy Z Fold 4 (256GB) giá rẻ, giao ngay",
+      "image": "https://cdn11.dienmaycholon.vn/filewebdmclnew/DMCL21/Picture//Apro/Apro_product_31152/samsung-galaxy-_main_549_1020.png.webp",
+      "quantity": 1,
+      "userId": 1,
+      "productId": 3,
+      "id": 11
+    },
+    {
+      "name": "Samsung Galaxy S23 5G",
+      "price": "16.690.000",
+      "color": "black",
+      "category": "samsung",
+      "description": "Điện thoại Samsung Galaxy S23 5G 128GB",
+      "image": "https://www.xtmobile.vn/vnt_upload/product/10_2022/thumbs/(600x600)_crop_a73-5g.jpg",
+      "quantity": 1,
+      "userId": 1,
+      "productId": 1,
+      "id": 12
+    },
+    {
+      "name": "Samsung Galaxy Z Fold 4",
+      "price": "30.490.000",
+      "color": "black",
+      "category": "samsung",
+      "description": "Samsung Galaxy Z Fold 4 (256GB) giá rẻ, giao ngay",
+      "image": "https://cdn11.dienmaycholon.vn/filewebdmclnew/DMCL21/Picture//Apro/Apro_product_31152/samsung-galaxy-_main_549_1020.png.webp",
+      "quantity": 1,
+      "userId": 1,
+      "productId": 3,
+      "id": 13
+    },
+    {
+      "name": "Samsung Galaxy S23 5G",
+      "price": "16690000",
+      "color": "black",
+      "category": "samsung",
+      "description": "Điện thoại Samsung Galaxy S23 5G 128GB",
+      "image": "https://www.xtmobile.vn/vnt_upload/product/10_2022/thumbs/(600x600)_crop_a73-5g.jpg",
+      "quantity": 1,
+      "userId": 1,
+      "productId": 1,
+      "id": 14
+    },
+    {
+      "name": "iphone 6",
+      "price": "3300200 ",
+      "color": "yellow",
+      "category": "iphone",
+      "description": "Iphone 6 ram8,128gb",
+      "image": "https://cdn.tgdd.vn/Products/Images/42/92962/iphone-6-32gb-gold-hh-600x600-600x600-600x600.jpg",
+      "quantity": 1,
+      "userId": 1,
+      "productId": 6,
+      "id": 15
+    },
+    {
+      "name": "Samsung Galaxy S23 5G",
+      "price": "16690000",
+      "color": "black",
+      "category": "samsung",
+      "description": "Điện thoại Samsung Galaxy S23 5G 128GB",
+      "image": "https://www.xtmobile.vn/vnt_upload/product/10_2022/thumbs/(600x600)_crop_a73-5g.jpg",
+      "quantity": 1,
+      "productId": 1,
+      "userId": 3,
+      "id": 16
+    },
+    {
+      "name": "iphone 6",
+      "price": "3300200 ",
+      "color": "yellow",
+      "category": "iphone",
+      "description": "Iphone 6 ram8,128gb",
+      "image": "https://cdn.tgdd.vn/Products/Images/42/92962/iphone-6-32gb-gold-hh-600x600-600x600-600x600.jpg",
+      "quantity": 1,
+      "productId": 6,
+      "userId": 3,
+      "id": 17
+    },
+    {
+      "name": "Samsung Galaxy S23 5G",
+      "price": "16690000",
+      "color": "black",
+      "category": "samsung",
+      "description": "Điện thoại Samsung Galaxy S23 5G 128GB",
+      "image": "https://www.xtmobile.vn/vnt_upload/product/10_2022/thumbs/(600x600)_crop_a73-5g.jpg",
+      "quantity": 1,
+      "userId": 3,
+      "productId": 1,
+      "id": 18
+    },
+    {
+      "name": "iphone 7",
+      "price": "4300000 ",
+      "color": "yellow",
+      "category": "iphone",
+      "description": "iPhone 7 32GB | Giá rẻ, chính hãng, nhiều khuyến mãi",
+      "image": "https://cdn.tgdd.vn/Products/Images/42/74110/iphone-7-gold-600x600-1-600x600.jpg",
+      "quantity": 4,
+      "userId": 3,
+      "productId": 7,
+      "id": 19
+    },
+    {
+      "name": "Samsung Galaxy S23 5G",
+      "price": "16690000",
+      "color": "black",
+      "category": "samsung",
+      "description": "Điện thoại Samsung Galaxy S23 5G 128GB",
+      "image": "https://www.xtmobile.vn/vnt_upload/product/10_2022/thumbs/(600x600)_crop_a73-5g.jpg",
+      "quantity": 1,
+      "userId": 3,
+      "productId": 1,
+      "id": 20
+    },
+    {
+      "name": " Samsung Galaxy Z Flip4",
+      "price": "17990000 ",
+      "color": "violet",
+      "category": "samsung",
+      "description": "Điện thoại Samsung Galaxy Z Flip4 128GB",
+      "image": "https://cdn.tgdd.vn/Products/Images/42/258047/samsung-galaxy-z-flip4-5g-128gb-thumb-tim-600x600.jpg",
+      "quantity": 1,
+      "userId": 3,
+      "productId": 2,
+      "id": 21
+    },
+    {
+      "name": " Samsung Galaxy Z Flip4",
+      "price": "17990000 ",
+      "color": "violet",
+      "category": "samsung",
+      "description": "Điện thoại Samsung Galaxy Z Flip4 128GB",
+      "image": "https://cdn.tgdd.vn/Products/Images/42/258047/samsung-galaxy-z-flip4-5g-128gb-thumb-tim-600x600.jpg",
+      "quantity": 1,
+      "userId": 3,
+      "productId": 2,
+      "id": 22
+    },
+    {
+      "name": " Samsung Galaxy Z Flip4",
+      "price": "17990000 ",
+      "color": "violet",
+      "category": "samsung",
+      "description": "Điện thoại Samsung Galaxy Z Flip4 128GB",
+      "image": "https://cdn.tgdd.vn/Products/Images/42/258047/samsung-galaxy-z-flip4-5g-128gb-thumb-tim-600x600.jpg",
+      "quantity": 1,
+      "userId": 3,
+      "productId": 2,
+      "id": 23
+    },
+    {
+      "name": " Samsung Galaxy Z Flip4",
+      "price": "17990000 ",
+      "color": "violet",
+      "category": "samsung",
+      "description": "Điện thoại Samsung Galaxy Z Flip4 128GB",
+      "image": "https://cdn.tgdd.vn/Products/Images/42/258047/samsung-galaxy-z-flip4-5g-128gb-thumb-tim-600x600.jpg",
+      "quantity": 1,
+      "userId": 3,
+      "productId": 2,
+      "id": 24
+    },
+    {
+      "name": "Samsung Galaxy S23 5G",
+      "price": "16690000",
+      "color": "black",
+      "category": "samsung",
+      "description": "Điện thoại Samsung Galaxy S23 5G 128GB",
+      "image": "https://www.xtmobile.vn/vnt_upload/product/10_2022/thumbs/(600x600)_crop_a73-5g.jpg",
+      "quantity": 1,
+      "userId": 3,
+      "productId": 1,
+      "id": 25
+    },
+    {
+      "name": "Samsung Galaxy S23 5G",
+      "price": "16690000",
+      "color": "black",
+      "category": "samsung",
+      "description": "Điện thoại Samsung Galaxy S23 5G 128GB",
+      "image": "https://www.xtmobile.vn/vnt_upload/product/10_2022/thumbs/(600x600)_crop_a73-5g.jpg",
+      "quantity": 1,
+      "productId": 1,
+      "userId": 1,
+      "id": 26
+    },
+    {
+      "name": "Samsung Galaxy S23 5G",
+      "price": "16690000",
+      "color": "black",
+      "category": "samsung",
+      "description": "Điện thoại Samsung Galaxy S23 5G 128GB",
+      "image": "https://www.xtmobile.vn/vnt_upload/product/10_2022/thumbs/(600x600)_crop_a73-5g.jpg",
+      "quantity": 1,
+      "userId": 1,
+      "productId": 1,
+      "id": 27
+    },
+    {
+      "name": "Samsung Galaxy S23 5G",
+      "price": "16690000",
+      "color": "black",
+      "category": "samsung",
+      "description": "Điện thoại Samsung Galaxy S23 5G 128GB",
+      "image": "https://www.xtmobile.vn/vnt_upload/product/10_2022/thumbs/(600x600)_crop_a73-5g.jpg",
+      "quantity": 1,
+      "userId": 1,
+      "productId": 1,
+      "id": 28
+    },
+    {
+      "name": " Samsung Galaxy Z Flip4",
+      "price": "17990000 ",
+      "color": "violet",
+      "category": "samsung",
+      "description": "Điện thoại Samsung Galaxy Z Flip4 128GB",
+      "image": "https://cdn.tgdd.vn/Products/Images/42/258047/samsung-galaxy-z-flip4-5g-128gb-thumb-tim-600x600.jpg",
+      "quantity": 1,
+      "userId": 1,
+      "productId": 2,
+      "id": 29
+    },
+    {
+      "name": "Samsung Galaxy S23 5G",
+      "price": "16690000",
+      "color": "black",
+      "category": "samsung",
+      "description": "Điện thoại Samsung Galaxy S23 5G 128GB",
+      "image": "https://www.xtmobile.vn/vnt_upload/product/10_2022/thumbs/(600x600)_crop_a73-5g.jpg",
+      "quantity": 1,
+      "userId": 1,
+      "productId": 1,
+      "id": 30
+    },
+    {
+      "name": "Samsung Galaxy S23 5G",
+      "price": "16690000",
+      "color": "black",
+      "category": "samsung",
+      "description": "Điện thoại Samsung Galaxy S23 5G 128GB",
+      "image": "https://www.xtmobile.vn/vnt_upload/product/10_2022/thumbs/(600x600)_crop_a73-5g.jpg",
+      "quantity": 1,
+      "userId": 1,
+      "productId": 1,
+      "id": 31
+    },
+    {
+      "name": " Samsung Galaxy Z Flip4",
+      "price": "17990000 ",
+      "color": "violet",
+      "category": "samsung",
+      "description": "Điện thoại Samsung Galaxy Z Flip4 128GB",
+      "image": "https://cdn.tgdd.vn/Products/Images/42/258047/samsung-galaxy-z-flip4-5g-128gb-thumb-tim-600x600.jpg",
+      "quantity": 1,
+      "userId": 1,
+      "productId": 2,
+      "id": 32
+    },
+    {
+      "name": "Samsung Galaxy S23 5G",
+      "price": "16690000",
+      "color": "black",
+      "category": "samsung",
+      "description": "Điện thoại Samsung Galaxy S23 5G 128GB",
+      "image": "https://www.xtmobile.vn/vnt_upload/product/10_2022/thumbs/(600x600)_crop_a73-5g.jpg",
+      "quantity": 1,
+      "userId": 1,
+      "productId": 1,
+      "id": 33
+    },
+    {
+      "name": " Samsung Galaxy Z Flip4",
+      "price": "17990000 ",
+      "color": "violet",
+      "category": "samsung",
+      "description": "Điện thoại Samsung Galaxy Z Flip4 128GB",
+      "image": "https://cdn.tgdd.vn/Products/Images/42/258047/samsung-galaxy-z-flip4-5g-128gb-thumb-tim-600x600.jpg",
+      "quantity": 1,
+      "userId": 1,
+      "productId": 2,
+      "id": 34
+    },
+    {
+      "name": "Samsung Galaxy S23 5G",
+      "price": "16690000",
+      "color": "black",
+      "category": "samsung",
+      "description": "Điện thoại Samsung Galaxy S23 5G 128GB",
+      "image": "https://www.xtmobile.vn/vnt_upload/product/10_2022/thumbs/(600x600)_crop_a73-5g.jpg",
+      "quantity": 1,
+      "userId": 1,
+      "productId": 1,
+      "id": 35
+    },
+    {
+      "name": " Samsung Galaxy Z Flip4",
+      "price": "17990000 ",
+      "color": "violet",
+      "category": "samsung",
+      "description": "Điện thoại Samsung Galaxy Z Flip4 128GB",
+      "image": "https://cdn.tgdd.vn/Products/Images/42/258047/samsung-galaxy-z-flip4-5g-128gb-thumb-tim-600x600.jpg",
+      "quantity": 1,
+      "userId": 1,
+      "productId": 2,
+      "id": 36
+    },
+    {
+      "name": "Samsung Galaxy S23 5G",
+      "price": "16690000",
+      "color": "black",
+      "category": "samsung",
+      "description": "Điện thoại Samsung Galaxy S23 5G 128GB",
+      "image": "https://www.xtmobile.vn/vnt_upload/product/10_2022/thumbs/(600x600)_crop_a73-5g.jpg",
+      "quantity": 1,
+      "userId": 1,
+      "productId": 1,
+      "id": 37
+    },
+    {
+      "name": "Samsung Galaxy S23 5G",
+      "price": "16690000",
+      "color": "black",
+      "category": "samsung",
+      "description": "Điện thoại Samsung Galaxy S23 5G 128GB",
+      "image": "https://www.xtmobile.vn/vnt_upload/product/10_2022/thumbs/(600x600)_crop_a73-5g.jpg",
+      "quantity": 1,
+      "userId": 1,
+      "productId": 1,
+      "id": 38
+    },
+    {
+      "name": " Samsung Galaxy Z Flip4",
+      "price": "17990000 ",
+      "color": "violet",
+      "category": "samsung",
+      "description": "Điện thoại Samsung Galaxy Z Flip4 128GB",
+      "image": "https://cdn.tgdd.vn/Products/Images/42/258047/samsung-galaxy-z-flip4-5g-128gb-thumb-tim-600x600.jpg",
+      "quantity": 1,
+      "userId": 1,
+      "productId": 2,
+      "id": 39
+    },
+    {
+      "name": "Samsung Galaxy S23 5G",
+      "price": "16690000",
+      "color": "black",
+      "category": "samsung",
+      "description": "Điện thoại Samsung Galaxy S23 5G 128GB",
+      "image": "https://www.xtmobile.vn/vnt_upload/product/10_2022/thumbs/(600x600)_crop_a73-5g.jpg",
+      "quantity": 1,
+      "userId": 1,
+      "productId": 1,
+      "id": 40
+    },
+    {
+      "name": " Samsung Galaxy Z Flip4",
+      "price": "17990000 ",
+      "color": "violet",
+      "category": "samsung",
+      "description": "Điện thoại Samsung Galaxy Z Flip4 128GB",
+      "image": "https://cdn.tgdd.vn/Products/Images/42/258047/samsung-galaxy-z-flip4-5g-128gb-thumb-tim-600x600.jpg",
+      "quantity": 1,
+      "userId": 1,
+      "productId": 2,
+      "id": 41
+    },
+    {
+      "name": "Samsung Galaxy S23 5G",
+      "price": "16690000",
+      "color": "black",
+      "category": "samsung",
+      "description": "Điện thoại Samsung Galaxy S23 5G 128GB",
+      "image": "https://www.xtmobile.vn/vnt_upload/product/10_2022/thumbs/(600x600)_crop_a73-5g.jpg",
+      "quantity": 1,
+      "userId": 1,
+      "productId": 1,
+      "id": 42
+    },
+    {
+      "name": "Samsung Galaxy S23 5G",
+      "price": "16690000",
+      "color": "black",
+      "category": "samsung",
+      "description": "Điện thoại Samsung Galaxy S23 5G 128GB",
+      "image": "https://www.xtmobile.vn/vnt_upload/product/10_2022/thumbs/(600x600)_crop_a73-5g.jpg",
+      "quantity": 1,
+      "userId": 1,
+      "productId": 1,
+      "id": 43
+    },
+    {
+      "name": " Samsung Galaxy Z Flip4",
+      "price": "17990000 ",
+      "color": "violet",
+      "category": "samsung",
+      "description": "Điện thoại Samsung Galaxy Z Flip4 128GB",
+      "image": "https://cdn.tgdd.vn/Products/Images/42/258047/samsung-galaxy-z-flip4-5g-128gb-thumb-tim-600x600.jpg",
+      "quantity": 1,
+      "userId": 1,
+      "productId": 2,
+      "id": 44
+    },
+    {
+      "name": "Samsung Galaxy Z Fold 4",
+      "price": "30490000",
+      "color": "black",
+      "category": "samsung",
+      "description": "Samsung Galaxy Z Fold 4 (256GB) giá rẻ, giao ngay",
+      "image": "https://cdn11.dienmaycholon.vn/filewebdmclnew/DMCL21/Picture//Apro/Apro_product_31152/samsung-galaxy-_main_549_1020.png.webp",
+      "quantity": 1,
+      "userId": 1,
+      "productId": 3,
+      "id": 45
+    }
+  ]
+}
